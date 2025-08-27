@@ -1,4 +1,4 @@
-![Project Logo](spy.jpg)
+![Project Logo](spy.png)
 # Sudo Spy
 ***Retrieves system information such as sudo password prompts and usernames.***
 
